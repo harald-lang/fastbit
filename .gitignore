@@ -1,0 +1,14 @@
+#*
+#*#
+*#
+*.*#
+*.class
+*.dSYM
+*.la
+*.lo
+*.o
+*.so
+*.exe
+.idea
+cmake-build-*
+**/perf.data
